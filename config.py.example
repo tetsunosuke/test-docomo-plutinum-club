@@ -1,0 +1,4 @@
+DEBUG = True
+
+mail = "hoge@docomo.ne.jp"
+pwd = "fuga"
